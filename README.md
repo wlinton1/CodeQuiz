@@ -17,3 +17,5 @@ https://gyazo.com/ce304a19548ffb10de2052c51f1d05b6
 https://gyazo.com/46f877bc8b24c8bf952be8f8c4644de9
 
 https://gyazo.com/dcd7a75ef2c87695f21c0599bf157ec0
+
+I used jquery, html, css.
